@@ -1,4 +1,11 @@
-### Hi there 👋
+
+![Metrics](/github-metrics.svg)
+
+Currently I'm a SRE @[Cencosud-X](https://github.com/Cencosud-X) and starting a community for latin americdan promotion of the DevOps and SRE culture, practices and technologies @[sredevops.cl](https://github.com/sredevopscl).
+
+I mostly love Cybernetics as an approach to understand systems and relationships between a multi-systemic approach, so I'm supporter of Free Software and Open Source, as a mean to human development.
+
+This is my public profile, feel free to reach me.
 
 <!--
 **ngeorger/ngeorger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
