@@ -1,9 +1,9 @@
 
 ![Metrics](/github-metrics.svg)
 
-Currently I'm a SRE @[Cencosud-X](https://github.com/Cencosud-X) and starting a community for latin americdan promotion of the DevOps and SRE culture, practices and technologies @[sredevops.cl](https://github.com/sredevopscl).
+Currently I'm a member of the SRE team at @[Cencosud-X](https://github.com/Cencosud-X) and starting a community to promote the DevOps and SRE culture, practices and technologie, focused into latin american contexts. @[sredevops.cl](https://github.com/sredevopscl).
 
-I mostly love Cybernetics as an approach to understand systems and relationships between a multi-systemic approach, so I'm supporter of Free Software and Open Source, as a mean to human development.
+I love Cybernetics as an approach to understand systems relationships and abstractons from a inter-disciplinary analysis., so I'm supporter of Free Software and Open Source, as a mean to human development, where Information Technologies plays a key role.
 
 This is my public profile, feel free to reach me.
 
