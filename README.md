@@ -1,23 +1,9 @@
 
 ![Metrics](/github-metrics.svg)
 
-Currently I'm a member of the SRE team at @[Cencosud-X](https://github.com/Cencosud-X) and starting a community to promote the DevOps and SRE culture, practices and technologie, focused into latin american contexts. @[sredevops.cl](https://github.com/sredevopscl).
+Currently I'm a member of the SRE team at [@Cencosud-X](https://github.com/Cencosud-X), also I'm currently starting an initiative which wants to promote the SRE/DEvOps culture, through communities and platforms focused in Latin America, as a mean to socialize the knowledge neccesary as now, and in the future, toi achive develkopment and social wellness.
+[@sredevops.cl](https://github.com/sredevopscl).
 
-I love Cybernetics as an approach to understand systems relationships and abstractons from a inter-disciplinary analysis., so I'm supporter of Free Software and Open Source, as a mean to human development, where Information Technologies plays a key role.
-
+About me: Cybernetics and Linux enthusiast, Site Reliability Engineer/DevOps culture. Social sciences academic background, self educated IT professional. DIY or die.
 This is my public profile, feel free to reach me.
 
-<!--
-**ngeorger/ngeorger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
