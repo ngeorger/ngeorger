@@ -28,10 +28,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
          filename: metrics.plugin.screenshot.png
-         token: "SE_SUPONE_QUE_NO"
+         token: ${{ secrets.METRICS_TOKEN }}
          base: ""
          plugin_screenshot: yes
          plugin_screenshot_title: ElClaustro.cl Screenshot
          plugin_screenshot_url: 'https://elclaustro.cl'
          plugin_screenshot_mode: image
-         plugin_screenshot_wait: 500
+         
