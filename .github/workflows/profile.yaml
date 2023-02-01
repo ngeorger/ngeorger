@@ -18,27 +18,20 @@ jobs:
          filename: metrics.plugin.habits.charts.svg
          token: ${{ secrets.METRICS_TOKEN }}
          base: ""
-         plugin_habits: yes
-         plugin_habits_facts: no
-         plugin_habits_charts: yes
-         config_timezone: America/Santiago
       - uses: lowlighter/metrics@latest
         with:
          filename: github-metrics.svg
          token: ${{ secrets.METRICS_TOKEN }}
          base: ""
-         plugin_habits: yes
-         plugin_habits_facts: yes
-         plugin_habits_charts: yes
          config_timezone: America/Santiago
-      - name: XKCD of the day
+      - name: Screenshot
         uses: lowlighter/metrics@latest
         with:
-         filename: metrics.plugin.screenshot.svg
-         token: ${{ secrets.METRICS_TOKEN }}
+         filename: metrics.plugin.screenshot.png
+         token: "SE_SUPONE_QUE_NO"
          base: ""
          plugin_screenshot: yes
          plugin_screenshot_title: ElClaustro.cl Screenshot
-         plugin_screenshot_url: https://elclaustro.cl
-         plugin_screenshot_selector: "#elclaustro"
-
+         plugin_screenshot_url: 'https://elclaustro.cl'
+         plugin_screenshot_mode: image
+         plugin_screenshot_wait: 3600
