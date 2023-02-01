@@ -34,4 +34,4 @@ jobs:
          plugin_screenshot_title: ElClaustro.cl Screenshot
          plugin_screenshot_url: 'https://elclaustro.cl'
          plugin_screenshot_mode: image
-         plugin_screenshot_wait: 3600
+         plugin_screenshot_wait: 500
