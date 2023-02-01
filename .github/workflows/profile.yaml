@@ -5,7 +5,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -22,3 +22,23 @@ jobs:
          plugin_habits_facts: no
          plugin_habits_charts: yes
          config_timezone: America/Santiago
+      - uses: lowlighter/metrics@latest
+        with:
+         filename: github-metrics.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_habits: yes
+         plugin_habits_facts: no
+         plugin_habits_charts: yes
+         config_timezone: America/Santiago
+      - name: XKCD of the day
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.screenshot.svg
+         token: ""
+         base: ""
+         plugin_screenshot: yes
+         plugin_screenshot_title: ElClaustro.cl Screenshot
+         plugin_screenshot_url: https://elclaustro.cl
+         plugin_screenshot_selector: "#elclaustro img"
+
