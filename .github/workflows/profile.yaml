@@ -5,22 +5,15 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-
+  #push: {branches: ["master", "main"]}
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
     steps:
       - uses: lowlighter/metrics@latest
         with:
-         filename: metrics1.svg
-         token: ${{ secrets.METRICS_TOKEN }}
-         base: ""
-      - uses: lowlighter/metrics@latest
-        with:
-         filename: metrics2.svg
-         token: ${{ secrets.METRICS_TOKEN }}
-         base: ""
-         config_timezone: America/Santiago
+          token: ${{ secrets.METRICS_TOKEN }}
+    
