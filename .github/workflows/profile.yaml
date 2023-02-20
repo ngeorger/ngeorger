@@ -15,23 +15,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-         filename: metrics.plugin.habits.charts.svg
+         filename: metrics1.svg
          token: ${{ secrets.METRICS_TOKEN }}
          base: ""
       - uses: lowlighter/metrics@latest
         with:
-         filename: github-metrics.svg
+         filename: metrics2.svg
          token: ${{ secrets.METRICS_TOKEN }}
          base: ""
          config_timezone: America/Santiago
-      - name: Screenshot
-        uses: lowlighter/metrics@latest
-        with:
-         filename: metrics.plugin.screenshot.png
-         token: ${{ secrets.METRICS_TOKEN }}
-         base: ""
-         plugin_screenshot: yes
-         plugin_screenshot_title: ElClaustro.cl Screenshot
-         plugin_screenshot_url: 'https://elclaustro.cl'
-         plugin_screenshot_mode: image
-         
