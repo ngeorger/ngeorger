@@ -1,18 +1,29 @@
 ## TL/DR 💨
 About me: Cybernetics, Linux and Kubernetes enthusiast. Site Reliability Engineering/DevOps culture, self educated IT professional, social sciences academic background.
 
+![Profile views](https://gpvc.arturio.dev/ngeorger)
+
 ![Metrics](/github-metrics.svg) 
 
-![Profile views](https://gpvc.arturio.dev/ngeorger)
 
 
 ## Who.. who wh... who the hell is this guy? 💀 
 
-Hi! My name is Nicolás Georger, and I consider myswelf a professional _**ñoño** (nerd, geek in chilean slang)_ , specialized in roles within Platfom Engineering/Site Reliability Engineering and DevOps culture.
+Hi! My name is Nicolás Georger, and I consider myswelf a professional _**ñoño**_ (nerd, geek in chilean slang), specialized within Platfom Engineering/Site Reliability Engineering and DevOps culture.
 
-Recently I was a part of [@Cencosud-X](https://github.com/Cencosud-X), as SRE of the Platform Team. I have more than 4 years of experience as **the devops guy**  and many more as a mukltipurpose geek, a lot like a sysadmin and before that. In the beggining of time, there was an species named webmasters, and I was one of them.
+Recently I was a part of [@Cencosud-X](https://github.com/Cencosud-X), as SRE of the Platform Team. I have more than 4 years of experience as **the devops guy**  and many more as a multipurpose geek. Mosly roles similar to a sysadmin. Before that, _in the beggining of time, when a species called "webmasters"_ lived on Earth,  I used to be one of them.
 
-Besides, I'm promoting an initiative named **SREDevOps.dev**, where we seek the promotion and support for the SRE/DevOps culture, through communities and platforms,  mostly within Latin America, through activities involving sharing knowledge, tools, technologies, practices and labs. [@sredevopsdev](https://github.com/sredevopsdev)
+## Projects
+
+<img width="200" alt="SREDevOps.dev" src="https://sredevops.dev/logo-h.png">
+
+
+Besides, I'm promoting an initiative named **SREDevOps.dev**, where we seek promotion and support to the SRE/DevOps culture in Chile and Latin America, through communities, platforms, activities involving shared knowledge, tools, technologies, practices and labs. [@sredevopsdev](https://github.com/sredevopsdev)
+
+<img width="200" alt="Logo El Claustro" src="https://elclaustro.cl/images/logo.svg">
+
+Also I'm the founder of [ElClaustro.cl](https://elclaustro.cl) a project which promotes gothic, dark and alternative culture since 2004. Now we are also a label.
+
 
 ### Ref: Ozzy being asked about Justin Bieber 
 
