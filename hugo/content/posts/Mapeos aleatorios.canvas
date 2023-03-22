@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"El Claustro/sredevops.cl.md","id":"7a8437a44c596461","x":-1040,"y":-280,"width":399,"height":400},
+		{"type":"file","file":"SRE - Platform Engineering/Equipo de Plataforma - Handbooks.md","id":"38ab3493bc6b7bec","x":-440,"y":-280,"width":400,"height":400},
+		{"type":"file","file":"Cybernetics/Cybernetics? Kubernetes? Allende?.md","id":"73dd8989dd8f3f18","x":-1041,"y":-920,"width":400,"height":400},
+		{"type":"file","file":"SRE - Platform Engineering/¿Cómo elegir la herramienta de monitorización de Kubernetes adecuada?.md","id":"ef4c83379a7f0fc0","x":-1041,"y":480,"width":400,"height":400},
+		{"type":"file","file":"SRE - Platform Engineering/La escalabilidad humana de \"DevOps\".md","id":"f55737ddb48c2e6b","x":-440,"y":480,"width":400,"height":400},
+		{"type":"file","file":"SRE - Platform Engineering/Cultura Platform Engineering.md","id":"20473d6424d3fcc1","x":160,"y":480,"width":400,"height":429,"color":"#990000"}
+	],
+	"edges":[
+		{"id":"ac94d25454ca21c3","fromNode":"38ab3493bc6b7bec","fromSide":"left","toNode":"7a8437a44c596461","toSide":"right"},
+		{"id":"f2a3682d2f5f8fce","fromNode":"7a8437a44c596461","fromSide":"bottom","toNode":"ef4c83379a7f0fc0","toSide":"top"},
+		{"id":"0d173f0e00557c6f","fromNode":"7a8437a44c596461","fromSide":"bottom","toNode":"f55737ddb48c2e6b","toSide":"left"},
+		{"id":"3430c6e350dbe52b","fromNode":"7a8437a44c596461","fromSide":"bottom","toNode":"20473d6424d3fcc1","toSide":"top"},
+		{"id":"96e2337f0c68ee41","fromNode":"73dd8989dd8f3f18","fromSide":"bottom","toNode":"7a8437a44c596461","toSide":"top"}
+	]
+}

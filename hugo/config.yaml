@@ -1,0 +1,104 @@
+baseURL: '/'
+languageCode: 'es-cl'
+title: 'Nicolás Georger - Blog, notas, etc.'
+theme: poison
+enableRobotsTXT: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      xhtml: true
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+  highlight:
+    style: dracula
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: false
+    tabWidth: 2
+    
+hideMeta: false
+hidePageThumbnail: false
+hideThumbnail: false
+canonifyurls: true
+paginate: 10
+imaging:
+  anchor: Smart
+  anchorPosition: Center
+  fit: Inside
+  bgColor: '#000000'
+  hint: photo
+  quality: 75
+  resampleFilter: Box
+  format: webp
+
+pluralizelisttitles: false
+params:
+  brand: '@ngeorger'
+  brand_image: 'https://avatars.githubusercontent.com/u/34670018'
+  description: 'Cybernetics, Linux and Kubernetes enthusiast. Site Reliability Engineering/DevOps culture, self educated IT professional.'
+  dark_mode: true
+  menu:
+    - Name: Inicio
+      URL: /
+      HasChildren: true
+    - Name: Posts
+      URL: /posts/
+      Pre: Recientes
+      HasChildren: true
+      Limit: 10
+  github_url: 'https://github.com/ngeorger'
+  gitlab_url: 'https://gitlab.com/nicogeorger'
+  linkedin_url: 'https://linkedin.com/in/nicolas-georger'
+  twitter_url: 'https://twitter.com/elclaustro'
+  # mastodon_url: 'https://mastodon.social'
+  tryhackme_url: 'https://tryhackme.com/p/ngeorger'
+  # discord_url: 'https://discord.com'
+  youtube_url: 'https://youtube.com/@elclaustrocl'
+  # instagram_url: 'https://instagram.com'
+  # facebook_url: 'https://facebook.com'
+  email_url: 'mailto://info@sredevops.cl'
+  rss_icon: true
+  rss_section: posts
+  sidebar_bg_color: '#202020'
+  sidebar_img_border_color: '#515151'
+  sidebar_p_color: '#909090'
+  sidebar_h1_color: '#FFF'
+  sidebar_a_color: '#FFF'
+  sidebar_socials_color: '#FFF'
+  moon_sun_color: '#FFF'
+  moon_sun_background_color: '#515151'
+  text_color: '#222'
+  content_bg_color: '#FAF9F6'
+  post_title_color: '#303030'
+  list_color: '#5a5a5a'
+  link_color: '#268bd2'
+  date_color: '#515151'
+  table_border_color: '#E5E5E5'
+  table_stripe_color: '#F9F9F9'
+  text_color_dark: '#eee'
+  content_bg_color_dark: '#121212'
+  post_title_color_dark: '#DBE2E9'
+  list_color_dark: '#9d9d9d'
+  link_color_dark: '#268bd2'
+  date_color_dark: '#9a9a9a'
+  table_border_color_dark: '#515151'
+  table_stripe_color_dark: '#202020'
+  code_color: '#bf616a'
+  code_background_color: '#E5E5E5'
+  code_color_dark: '#ff7f7f'
+  code_background_color_dark: '#393D47'
+taxonomies:
+  series: series
+  tags: tags
