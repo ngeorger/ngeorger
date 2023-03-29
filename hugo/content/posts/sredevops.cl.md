@@ -1,5 +1,7 @@
 ---
-share: true
+type: posts
+date: 2023-03-29T22:01:35.978Z
+draft: true
 ---
 
 ![SREDevOps.dev - Site Reliability Engineering, DevOps y Platform Engineering en Español](https://github.com/sredevopsdev/.github/raw/main/oldweb/logo-h.png)

@@ -1,11 +1,25 @@
-
-# Cultura Platform Engineering
+---
+title: Qué es Platform Engineering? SRE? DevOps?
+description: Definir y explicar los conceptos de Platform Engineering, SRE y DevOps, y por
+  qué es importante entenderlos, diferenciarlos y saber cuándo usarlos.
+date: 2023-03-29T22:00:07.320Z
+tags:
+  - Cloud
+  - DevOps
+  - SRE
+categories:
+  - Blog
+  - Columnas
+slug: que-es-platform-engineering-sre-devops
+---
+# Qué es Platform Engineering? SRE? DevOps?
 
 *(O del por qué DevOps es sólo una parte...)*
-![Foto](../attachments/d6132955ab11e1623dc5bdaba1bd236c0a62888e.png)
 
+En esta columna intentaré definir y explicar los conceptos de Platform Engineering, SRE y DevOps, y por qué es importante entenderlos, diferenciarlos y saber cuándo usarlos.
+
+Nota: Como todo blog, ésta es una nota basada en experiencias y opiniones personales, no es una guía oficial ni un documento técnico. Toda corrección, sugerencia o comentario es bienvenido.
 ## Platform Engineering  
-
 Proceso de desarrollo, mantenimiento y mejora de una plataforma o ecosistema donde vivirá tu proyecrto u or, que puede incluir desde la creación de una infraestructura hasta APIs para la provisión interna de los servicios e infra a los devs.
 
 ## Site Reliability Engineering (SRE)
@@ -18,11 +32,11 @@ DevOps es una cultura y conjunto de prácticas que busca unir el desarrollo de s
 
 En resumen, Platform Engineering se enfoca en desarrollar y mantener una plataforma tecnológica, SRE en garantizar la disponibilidad y rendimiento de un sistema y DevOps en unir el desarrollo de software y operación de sistemas para mejorar la velocidad y eficiencia del desarrollo de aplicaciones.
 
-| Concepto      | Palabra clave 1 | Palabra clave 2 | Palabra clave 3  | Palabra clave 4 | Palabra clave 5 |
+| Nombre Concepto     |  |  |  |  |  |
 |---------------|-----------------|-----------------|------------------|-----------------|-----------------|
-| Platform Eng. | Plataforma      | Escalabilidad   | Automatización   | Desarrollo      | Infraestructura |
-| SRE           | disponibilidad  | escalabilidad   | rendimiento      | operaciones     | automatización  |
-| DevOps        | colaboración    | automatización  | entrega continua | monitorización  | cultura ágil    |
+| **Platform Eng.** | Plataforma      | Escalabilidad   | Automatización   | Desarrollo      | Infraestructura |
+| **SRE**           | disponibilidad  | escalabilidad   | rendimiento      | operaciones     | automatización  |
+| **DevOps**        | colaboración    | automatización  | entrega continua | monitorización  | cultura ágil    |
 
 ## Pero, qué realmente necesito y para qué lo haría?
 
@@ -51,7 +65,5 @@ Otro ejemplo de adopción exitosa de DevOps es Spotify, comenzaron su viaje en 2
 - No involucrar a los miembros del equipo adecuados: La ingeniería de plataformas requiere un equipo diverso con diferentes experticias y antecedentes. No involucrar a las personas adecuadas puede llevar a malentendidos y soluciones inefectivas.
 
 Para tener éxito con una cultura de ingeniería de plataformas, las organizaciones deben enfocarse en objetivos y metas claros, proporcionar recursos suficientes, comunicarse y colaborar efectivamente, enfocarse en construir una cultura y procesos que respalden, priorizar la seguridad y cumplimiento, invertir en monitorización y observabilidad, e involucrar a los miembros del equipo adecuados
-
-### Nota: Éste documento es producto del diálogo entre @ngeorger y el Chatbot de OpenAI, que demuestra que la tecnología no es una amenaza, es una herramienta
 
 _Puerto Montt, Enero 2023_

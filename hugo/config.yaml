@@ -1,8 +1,9 @@
 baseURL: '/'
-languageCode: 'es-cl'
+languageCode: 'es-CL'
 title: 'Nicolás Georger - Blog, notas, etc.'
 theme: poison
 enableRobotsTXT: true
+paginate: 5
 markup:
   goldmark:
     renderer:
@@ -32,7 +33,6 @@ hideMeta: false
 hidePageThumbnail: false
 hideThumbnail: false
 canonifyurls: true
-paginate: 10
 imaging:
   anchor: Smart
   anchorPosition: Center

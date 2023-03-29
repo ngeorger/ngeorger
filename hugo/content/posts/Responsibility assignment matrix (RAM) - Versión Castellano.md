@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Responsibility assignment matrix (RAM)
 
 Autor: http://joelparkerhenderson.com

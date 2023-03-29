@@ -1,11 +1,23 @@
+---
+date: 2023-03-29T21:31:42.740Z
+title: Nicolás Georger - Github Profile
+description: Cybernetics, Linux and Kubernetes enthusiast. Site Reliability
+  Engineering/DevOps culture, self educated IT professional, social sciences
+  academic background.
+tags:
+  - Cloud
+  - Cultura Colaborativa
+  - DevOps
+  - SRE
+categories:
+  - Github
+---
 ## TL/DR 💨
 About me: Cybernetics, Linux and Kubernetes enthusiast. Site Reliability Engineering/DevOps culture, self educated IT professional, social sciences academic background.
 
 ![Profile views](https://gpvc.arturio.dev/ngeorger)
 
 ![Metrics](/github-metrics.svg) 
-
-
 
 ## Who.. who wh... who the hell is this guy? 💀 
 
@@ -17,13 +29,11 @@ Recently I was a part of [@Cencosud-X](https://github.com/Cencosud-X), as SRE of
 
 <img width="200" alt="SREDevOps.dev" src="https://sredevops.dev/logo-h.png">
 
-
 **SREDevOps.dev**, where we seek promotion and support to the SRE/DevOps culture in Chile and Latin America, through communities, platforms, activities involving shared knowledge, tools, technologies, practices and labs. [@sredevopsdev](https://github.com/sredevopsdev)
 
 <img width="200" alt="Logo El Claustro" src="https://elclaustro.cl/images/logo.svg">
 
 Also I'm the founder of [ElClaustro.cl](https://elclaustro.cl) a project which promotes gothic, dark and alternative culture since 2004. Now we are also a label.
-
 
 ### Ref: Ozzy being asked about Justin Bieber 
 

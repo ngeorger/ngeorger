@@ -1,3 +1,13 @@
+---
+title: La escalabilidad humana de "DevOps"
+date: 2023-03-29T22:02:26.283Z
+categories:
+  - Artículos
+tags:
+  - DevOps
+draft: true
+slug: la-escalabilidad-humana-de-devops
+---
 # La escalabilidad humana de "DevOps"
 
 Fuente: <a href="https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a" target="_new">https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a</a>
