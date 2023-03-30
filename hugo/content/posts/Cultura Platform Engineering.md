@@ -11,6 +11,7 @@ categories:
   - Blog
   - Columnas
 slug: que-es-platform-engineering-sre-devops
+image: https://github.com/ngeorger/ngeorger/blob/da80a124d51bed876c1cb326a80aabb41487263d/hugo/static/images/d6132955ab11e1623dc5bdaba1bd236c0a62888e.png
 ---
 # Qué es Platform Engineering? SRE? DevOps?
 
