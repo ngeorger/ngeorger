@@ -1,17 +1,3 @@
----
-date: 2023-03-29T21:31:42.740Z
-title: Nicolás Georger - Github Profile
-description: Cybernetics, Linux and Kubernetes enthusiast. Site Reliability
-  Engineering/DevOps culture, self educated IT professional, social sciences
-  academic background.
-tags:
-  - Cloud
-  - Cultura Colaborativa
-  - DevOps
-  - SRE
-categories:
-  - Github
----
 ## TL/DR 💨
 About me: Cybernetics, Linux and Kubernetes enthusiast. Site Reliability Engineering/DevOps culture, self educated IT professional, social sciences academic background.
 
@@ -38,3 +24,18 @@ Also I'm the founder of [ElClaustro.cl](https://elclaustro.cl) a project which p
 ### Ref: Ozzy being asked about Justin Bieber 
 
 <img width="200" alt="Screenshot 2023-01-06 at 02 14 53" src="https://user-images.githubusercontent.com/34670018/210952307-eea4029f-938f-4c49-a8c7-e6279b4c2c32.png">
+
+---
+date: 2023-03-29T21:31:42.740Z
+title: Nicolás Georger - Github Profile
+description: Cybernetics, Linux and Kubernetes enthusiast. Site Reliability
+  Engineering/DevOps culture, self educated IT professional, social sciences
+  academic background.
+tags:
+  - Cloud
+  - Cultura Colaborativa
+  - DevOps
+  - SRE
+categories:
+  - Github
+---
