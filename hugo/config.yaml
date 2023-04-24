@@ -1,4 +1,4 @@
-baseURL: 'https://ngeorger.sredevops.cl/'
+baseURL: '/'
 languageCode: 'es-CL'
 title: 'Nicolás Georger - Blog, notas, etc.'
 theme: poison
