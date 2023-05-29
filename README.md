@@ -1,19 +1,19 @@
 ## TL/DR 💨
 About me: Cybernetics, Linux and Kubernetes enthusiast. Site Reliability Engineering/DevOps culture, self educated IT professional, social sciences academic background.
 
-![Profile views](https://gpvc.arturio.dev/ngeorger)
-
-![Metrics](/github-metrics.svg) 
-
 ## Who.. who wh... who the hell is this guy? 💀 
 
 Hi! My name is Nicolás Georger, and I consider myself a professional _**ñoño**_ (nerd, geek in chilean slang), specialized in roles within Platfom/SRE and DevOps culture.
 
-Recently I was a part of [@Cencosud-X](https://github.com/Cencosud-X), as SRE of the Platform Team. I have more than 4 years of experience as **the devops guy**  and many more years as freelance multipurpose sysadmin/fullstack developer. _in the beggining of time, when a species called "webmasters"_ lived on Earth,  I was among them.
+I have more than 4 years of experience as **the devops guy**  and many more years as freelance multipurpose sysadmin/fullstack developer. The tales of the ancients tells: **_in the beggining of time, a strange species lived on Earth, they were called called "webmasters"_**. Well, I was among them.
+
+![Profile views](https://gpvc.arturio.dev/ngeorger)
+
+![Metrics](/metrics.plugin.rss.svg) 
 
 ## Projects
 
-<img width="200" alt="SREDevOps.dev" src="https://sredevops.dev/logo-h.png">
+<img width="200" alt="SREDevOps.cl" src="https://sredevops.cl/content/images/2023/05/logo-h.png">
 
 **SREDevOps.dev**, where we seek promotion and support to the SRE/DevOps culture in Chile and Latin America, through communities, platforms, activities involving shared knowledge, tools, technologies, practices and labs. [@sredevopsdev](https://github.com/sredevopsdev)
 
