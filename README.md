@@ -8,15 +8,15 @@ Hi! My name is Nicolás Georger, and I consider myself a professional _**ñoño*
 
 I have more than 4 years of experience as **the devops guy**  and many more years as freelance multipurpose sysadmin/fullstack developer. The tales of the ancients tells: **_in the beggining of time, a strange species lived on Earth, they were called called "webmasters"_**. Well, I was among them.
 
-![Profile views](https://gpvc.arturio.dev/ngeorger)
+![](https://komarev.com/ghpvc/?username=ngeorger&color=red)
 
 ![Metrics](/metrics.plugin.rss.svg) 
 
 ## Projects
 
-<img width="200" alt="SREDevOps.cl" src="https://sredevops.cl/content/images/2023/06/logo-temp.webp">
+<img width="200" alt="SREDevOps.cl" src="https://sredevops.cl/content/images/2023/06/ghost.svg">
 
-**SREDevOps.cl**, where we seek promotion and support to the SRE/DevOps culture in Chile and Latin America, through communities, platforms, activities involving shared knowledge, tools, technologies, practices and labs. [@sredevopsdev](https://github.com/sredevopsdev)
+**SREDevOps.cl**, Somos Comunidad DevOps, Site Reliability Engineering, Platform Engineering en Sudamérica. [@sredevopsdev](https://github.com/sredevopsdev)
 
 <img width="200" alt="Logo El Claustro" src="https://elclaustro.cl/content/images/2023/05/logo-4.svg">
 
