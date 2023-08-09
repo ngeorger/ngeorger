@@ -21,6 +21,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_rss: yes
-          plugin_rss_source: https://sredevops.cl/rss/
+          plugin_rss_source: https://sredevops.org/rss/
           plugin_rss_limit: 5
           filename: metrics.plugin.rss.svg
