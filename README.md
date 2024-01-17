@@ -1,9 +1,12 @@
-## Stats
-<img src="https://ngeorger.vercel.app/api?username=ngeorger&show_icons=true&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=purple&bg_color=000000"></img>
+# @ngeorger @sredevopsdev
+
+Site Reliability Engineer (SRE) and DevOps practitioner, committed with free software and open source culture.
 
 Linux and Kubernetes enthusiast, with a strong understanding of cloud computing and DevOps principles. I am also a cybernetic-systemic thinker, which means that I am able to see the big picture and understand how complex systems work together.
 
-Site Reliability Engineer (SRE) and DevOps practitioner, committed with free software and open source culture.
+
+## Stats
+<img src="https://ngeorger.vercel.app/api?username=ngeorger&show_icons=true&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=purple&bg_color=000000"></img>
 
 ## Projects
 
@@ -15,3 +18,6 @@ Site Reliability Engineer (SRE) and DevOps practitioner, committed with free sof
 
 [ElClaustro.cl](https://elclaustro.cl) a project which promotes gothic, dark and alternative culture since 2004. Now we are also a label.
 
+## Stuff
+
+<a href="https://app.daily.dev/ngeorger"><img src="https://api.daily.dev/devcards/57d59f2580044a4793a48bb0a141b616.png?r=bpv" width="320" alt="Nicolás Georger's Dev Card"/></a>
