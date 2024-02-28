@@ -1,4 +1,4 @@
-# @ngeorger @sredevopsdev
+# @ngeorger and @sredevopsdev
 
 Site Reliability Engineer (SRE) and DevOps practitioner, committed with free software and open source culture.
 
@@ -19,5 +19,7 @@ Linux and Kubernetes enthusiast, with a strong understanding of cloud computing 
 [ElClaustro.cl](https://elclaustro.cl) a project which promotes gothic, dark and alternative culture since 2004. Now we are also a label.
 
 ## Stuff
+
+<a href="https://stackoverflow.com/users/9084561/ngeorger"><img src="https://stackoverflow.com/users/flair/9084561.png" width="208" height="58" alt="profile for ngeorger at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ngeorger at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <a href="https://app.daily.dev/ngeorger"><img src="https://api.daily.dev/devcards/57d59f2580044a4793a48bb0a141b616.png?r=bpv" width="320" alt="Nicolás Georger's Dev Card"/></a>
