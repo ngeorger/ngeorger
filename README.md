@@ -1,16 +1,27 @@
-# Hola! Hi! 🧑‍💻 
+#  Hello, I'm Nicolás Georger
 
-I'm a Linux and Kubernetes enthusiast currently exploring AI/ML/LLM. As a self-taught IT specialist, I'm committed to free software and open source. I'm also a seasoned Site Reliability Engineer (SRE) and DevOps practitioner.
+## Who am I?
 
-I'm the founder of SREDevOps.Org, a community focused on Site Reliability Engineering, DevOps, Cloud, Linux, and Open Source.
+I'm a seasoned **Site Reliability Engineer (SRE)** and **DevOps practitioner** with a strong interest in emerging technologies like **AI/ML/LLMs**.  A firm believer in **free software and open source**, I contribute to building a strong open-source community.
 
-## LinkedIn
-<a href="https://linkedin.com/in/nicolas-georger"><img src="https://github.com/ngeorger/ngeorger/assets/34670018/0030694f-c7d3-4dd1-925f-ad35630a0eb5" /></a>
+## SREDevOps.org
 
-## Projects
-<a href="https://sredevops.org/author/ngeorger/" target="_blank"> <img width="330px" alt="SREDevOps.org" src="https://sredevops.org/content/images/2023/10/SREDevOpsOrg-h-2.svg"></a>
+**[SREDevOps.org](https://sredevops.org)** is a community I founded, focused on promoting knowledge and collaboration in the areas of:
 
-**[SREDevOps.org](https://sredevops.org)** promotes and disseminates knowledge, tutorials, news, and information from the Cloud Native universe. We focus on the culture, practices, and roles within DevOps, Site Reliability Engineering (SRE), Platform Engineering, Cloud Native, AI, LLM, and more. Github: [@sredevopsorg](https://github.com/sredevopsorg)
+* Site Reliability Engineering (SRE)
+* DevOps
+* Cloud Native Technologies
+* Linux and Open Source
+* AI, ML, and LLMs
+
+We share tutorials, news, and information to help people navigate the ever-evolving Cloud Native landscape. 
+
+* **Github:** [@sredevopsorg](https://github.com/sredevopsorg)
+
+## Connect With Me
+
+* **LinkedIn:** [Nicolas Georger](https://linkedin.com/in/nicolas-georger)
+* **mail:** ngeorger@sredevops.org
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ngeorger&show_icons=true&line_height=24&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=008B8B&bg_color=000000"></img>
