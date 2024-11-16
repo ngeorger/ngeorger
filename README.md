@@ -1,27 +1,25 @@
-#  Hello, I'm Nicolás Georger
+# About me
 
-## Who am I?
+`ngeorger@localhost whoami`
 
-I'm a seasoned **Site Reliability Engineer (SRE)** and **DevOps practitioner** with a strong interest in emerging technologies like **AI/ML/LLMs**.  A firm believer in **free software and open source**, I contribute to building a strong open-source community.
+Self-taught IT professional driving innovation & social impact with cybernetics, open source (Linux, Kubernetes), AI & ML. Building a thriving SRE/DevOps community at SREDevOps.org. I specialize in simplifying solutions through cloud native technologies and DevOps practices. 
 
-## SREDevOps.org
-
-**[SREDevOps.org](https://sredevops.org)** is a community I founded, focused on promoting knowledge and collaboration in the areas of:
+Focused on:
 
 * Site Reliability Engineering (SRE)
 * DevOps
-* Cloud Native Technologies
-* Linux and Open Source
+* Kubernetes
+* Cloud Native / Cloud Providers (GCP mostly)
+* Linux, Open Source, Free Software (FLOSS)
+* Ethical Hacking / Security / DevSecOps
 * AI, ML, and LLMs
 
-We share tutorials, news, and information to help people navigate the ever-evolving Cloud Native landscape. 
 
-* **Github:** [@sredevopsorg](https://github.com/sredevopsorg)
+## Projects
 
-## Connect With Me
+Founder of **[SREDevOps.org](https://sredevops.org)** | Github [@sredevopsorg](https://github.com/sredevopsorg)
+
+## Contact
 
 * **LinkedIn:** [Nicolas Georger](https://linkedin.com/in/nicolas-georger)
-* **mail:** ngeorger@sredevops.org
-
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ngeorger&show_icons=true&line_height=24&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=008B8B&bg_color=000000"></img>
+* **mail:** ngeorger \at\ sredevops.org or gmail.com
