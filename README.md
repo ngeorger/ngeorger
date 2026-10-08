@@ -12,14 +12,15 @@ Focused on:
 * Cloud Native / Cloud Providers (GCP mostly)
 * Linux, Open Source, Free Software (FLOSS)
 * Ethical Hacking / Security / DevSecOps
-* AI, ML, and LLMs
+* AI, ML, LLMs and agentic workflows.
 
 
 ## Projects
-
-Founder of **[SREDevOps.org](https://sredevops.org)** | Github [@sredevopsorg](https://github.com/sredevopsorg)
+ 
+- Founder of **[SREDevOps.org](https://www.sredevops.org)** | Github [@sredevopsorg](https://github.com/sredevopsorg)
+- Chair de Consejo Temático "Infraestructura, Nube y Arquitectura para IA" [Comunidad IA LATAM](https://comunidadialatam.org/)
 
 ## Contact
 
 * **LinkedIn:** [Nicolas Georger](https://linkedin.com/in/nicolas-georger)
-* **mail:** ngeorger \at\ sredevops.org or gmail.com
+* **mail:** contactogithub@sredevops.org
